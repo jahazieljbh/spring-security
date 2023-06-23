@@ -22,14 +22,14 @@ INSERT INTO roles(name) VALUES('ROLE_ADMIN');
 
 ### API Resources
 
-  - [POST /api/auth/signup](#post-api-auth-signup)
-  - [POST /api/auth/signin](#post-api-auth-signin)
-  - [POST /api/auth/signout](#post-api-auth-signout)
+  - [POST /api/auth/signup](#post-apiauthsignup)
+  - [POST /api/auth/signin](#post-apiauthsignin)
+  - [POST /api/auth/signout](#post-apiauthsignout)
   
-  - [GET /api/test/all](#get-api-test-all)
-  - [GET /api/test/user](#get-api-test-user)
-  - [GET /api/test/mod](#get-api-test-mod)
-  - [GET /api/test/admin](#get-api-test-admin)
+  - [GET /api/test/all](#get-apitestall)
+  - [GET /api/test/user](#get-apitestuser)
+  - [GET /api/test/mod](#get-apitestmod)
+  - [GET /api/test/admin](#get-apitestadmin)
   
 
 ### POST /api/auth/signup
